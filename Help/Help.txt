@@ -1,0 +1,10 @@
+Mapping of sections in the project report provided in the .../Predicting_Loan_Repayment/Report with the folders in .../Predicting_Loan_Repayment are as follows: 
+
+1) Section 3.1 in report on ‘Dataset Description’ is made from Data/Dataset_description word file.
+2) Section 4.1 in report on 'Visualisations' is made from Data/read_data.pynb notebook.
+3) Section 4.2 in report on 'Data Pre-processing' is made from Code/Pre-Processing.pynb notebook.
+4) Section 5 in report on 'Proposed Approach' is made from Code/Models.pynb notebook.
+5) Section 6 in report on 'Conclusion' is based on the evualations done in point 4).
+
+
+
